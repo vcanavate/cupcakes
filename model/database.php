@@ -1,8 +1,8 @@
 <?php
 	//database connection details
-	$host = 'localhost';
-	$user = 'root';
-	$password = '';
+	$host = 'mysqldb.cxegvls73cvn.us-east-1.rds.amazonaws.com';
+	$user = 'admin';
+	$password = 'root1234';
 	$database = 'gorgeous_cupcakes';
 
 	//connect to database with a try/catch statement
